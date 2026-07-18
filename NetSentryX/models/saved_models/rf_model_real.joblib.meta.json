@@ -1,0 +1,1 @@
+{"feature_order": ["total_packets", "total_bytes", "duration", "pkts_per_sec", "bytes_per_sec", "syn_count", "unique_dst_ports"], "model_type": "RandomForest", "n_features": 7}
